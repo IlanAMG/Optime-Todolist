@@ -1,0 +1,23 @@
+mode sans connexion : peut crée un tableau de tâche mais ne peut ni les activé ni les finaliser peut modéliser sont plan de travail
+afin de ce projeter (acces to do liste basic les autre sont en grise et un besoin d'une connexion)
+
+mode conecter free acces :il peut checker il peut renomer réorganisé (10 tache max/semaine) 
+taux de tâche limiter a la semaine edition de profile possible
+
+mode payant perso , familliale , pro :
+
+-perso : option calendrier(date heure etc...)  rajoue de decription avec , système de notification et de mail a la demande , chronométre , calcul 
+de temp de tache combiner a un systéme de notification, archivage de tache ,liste image decription,possibilité de partager les tache en temp réel 
+a d'autre utilisateur,
+
+familliale créer des groupe d'utilisateur liste connectée non modifiable a échance 
+
+
+
+pro cercle modulable pro avec admin qui peut modifier et utilisateur qui peut juste valider consulter éxécuter 
+
+
+
+
+
+(ajouter un systéme exp et de level ) (système de payement paréner )(tache basic , tache medium, Projet, Objectif,Rêve  )
